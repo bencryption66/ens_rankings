@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  expiry_date: 2023-04-10
+  views: 1
+  token_id: MyString
+  listings: 
+  bids: 
+  trades: 
+
+two:
+  name: MyString
+  expiry_date: 2023-04-10
+  views: 1
+  token_id: MyString
+  listings: 
+  bids: 
+  trades: 
